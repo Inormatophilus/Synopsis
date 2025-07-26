@@ -102,7 +102,7 @@ DigiDots ist mehr als ein Projekt - es ist eine stille Revolution gegen die Komp
 Code als lebendige Sprache
 
 Jede HTML-Datei ist wie ein offenes Buch, geschrieben in einer Sprache, die jeder lernen kann. Der HTML-Teil definiert die Struktur, CSS verwandelt sie in etwas Schönes, und JavaScript ist die Seele der Anwendung.
-Berührung als digitaler Akt
+Berührung durch neugier als digitaler Akt.
 
 Die physische Interaktion mit einem NFC-Tag bringt die Digitalität zurück in die physische Realität. Ein Sticker am Café-Tisch, ein Tag am Uni-Brett, ein Aufkleber in der Bibliothek - überall können digitale Lösungen entstehen.
 🤝 Community der Erschaffer
@@ -149,7 +149,7 @@ Traditionell lernt man Programmierung durch abstrakte Beispiele. DigiDots dreht 
 
 Was DigiDots wirklich auszeichnet, ist die Philosophie dahinter: Technologie soll den Menschen dienen, nicht umgekehrt. Jede App entsteht aus einem echten Bedürfnis, löst ein echtes Problem, verbessert ein echtes Leben.
 
-Eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann. Eine Berührung zur Zeit.
+Eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann.
 
 Berühren → Nutzen → Verstehen → Selbst machen
 
