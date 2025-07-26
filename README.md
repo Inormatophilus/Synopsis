@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="grafik" src="https://github.com/user-attachments/assets/e72f3cab-5140-4285-afb3-77a27f8dd1b9" /># Synopsis
+# Synopsis
  "DigiDots - Open Source Web-Apps per NFC" - Digitales Kunstprojekt: NFC-Tags →  Open Source Code zum Verbinden und Lernen.
 
 DigiDots 🎯
@@ -6,6 +6,9 @@ DigiDots 🎯
 Digitale Revolution durch Berührung
 
     "Tut was! - Ein NFC-Tag zur Zeit."
+
+
+    <img width="512" height="512" alt="grafik" src="https://github.com/user-attachments/assets/e72f3cab-5140-4285-afb3-77a27f8dd1b9" />
 
 🌟 Vision
 
