@@ -5,7 +5,7 @@ DigiDots 🎯
 
 Digitale Revolution durch Berührung
 
-    "Tut was! - Ein NFC-Tag zur Zeit."
+    "Tut was! - Ein NFC-Tag zur richtigen Zeit."
 _____
 
 <img width="512" height="512" alt="grafik" src="https://github.com/user-attachments/assets/e72f3cab-5140-4285-afb3-77a27f8dd1b9" />
